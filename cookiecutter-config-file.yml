@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "vlasiator"
+  project_description: "Python interface for processing Vlasiator data"
+  organization: "fmihpc"
+  license: "MIT"
+  minimal_python_version: 3.9
+  github_name: "henry2004y"
+  email: "hyzhou@umich.edu"
+  version: "0.1.0"
+  line_length: "79"
+  create_example_template: "none"
